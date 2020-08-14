@@ -1,4 +1,4 @@
-### Hi there i'm [Jaum Vitor](https://github.com/JaumVitor) 👨‍💻
+### Hi there i'm [João Vitor](https://github.com/JaumVitor) 👨‍💻
 
 ```java
 import java.life.Progammer; 
