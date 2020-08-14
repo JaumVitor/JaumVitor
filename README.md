@@ -5,11 +5,12 @@ import Progammer.util.*;
 public static void main (String[] args){
 
   Progammer me = new Progammer(); 
-  me.name("João Vitor Pires");
   
-  me.setWorking(null);
+    me.name("João Vitor Pires");
   
-  me.setLearning("learn new techonologies and starting on web 🌱");
+    me.setWorking(null);
   
-  me.setReachMe(new EmailAndInsta(joao.vitor.pires.060@gmail.com, [Instagram](https://www.instagram.com/jaum.vitor_kng/)));
+    me.setLearning("learn new techonologies and starting on web 🌱");
+  
+    me.setReachMe(new EmailAndInsta(joao.vitor.pires.060@gmail.com, [Instagram](https://www.instagram.com/jaum.vitor_kng/)));
 }
