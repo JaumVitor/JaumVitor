@@ -1,9 +1,11 @@
-### Hi there 👋
+### Hi there i'm **JaumVitor** 
 
-✨**JaumVitor/JaumVitor**✨ 
+import Progammer.util.*; 
 
-- 🔭 I’m currently working on learn new technologies.
-- 🌱 I’m currently learning Java and starting on web..
-- 💬 Ask me about Poo in Java or Ed.
-- 📫 How to reach me: @joao.vitor.pires.060@gmail.com.
-- ⚡ Fun fact: I'm just a mere student seeking knowledge.
+public static void main (String[] args){
+  Progammer me = new Progammer(); 
+  me.name("João Vitor Pires");
+  me.setWorking(null);
+  me.setLearning("learn new techonologies and starting on web 🌱");
+  me.setReachMe(new EmailAndInsta(joao.vitor.pires.060@gmail.com, ![Instagram](https://www.instagram.com/jaum.vitor_kng/)));
+}
