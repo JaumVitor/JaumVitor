@@ -1,7 +1,7 @@
 ### Hi there i'm [João Vitor](https://github.com/JaumVitor) 👨‍💻
 
 ```java
-import java.life.Progammer; 
+import java.life.Programmer; 
 
 public class Introduction {
   public static void main (String[] args){
